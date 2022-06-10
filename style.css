@@ -1,0 +1,39 @@
+body{
+	font: 16px arial;
+	background:#d2d2c1 url(imagens/fundo.png);
+	width: 900px;
+}
+
+div{
+	padding: 15px;
+}
+
+#nav{/*menu de navegação*/
+	background-color: #c5c5b2;
+	color:#4b566a;
+	font-weight: bold;	    
+}
+
+a{
+	color: #4b566a;
+	text-decoration: none;
+	padding: 5px;
+
+}
+
+#main{/*conteudo principal*/
+	background-color: #fff;   
+}
+
+.titulo_main{
+	color:#828271 ;
+	font-size: 1.2em;
+}
+
+.foto_campanha{
+	border: 10px solid #828271;
+}
+
+#footer{/*rodape*/
+	text-align: center;   
+}
